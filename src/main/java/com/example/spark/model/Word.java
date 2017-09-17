@@ -1,7 +1,5 @@
 package com.example.spark.model;
 
-
-
 public class Word {
     private String word;
 
